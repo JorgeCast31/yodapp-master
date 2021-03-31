@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523643834944",
+    "project_id": "osc-tek-tco",
+    "storage_bucket": "osc-tek-tco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523643834944:android:7b27edc14bc54b979f45a5",
+        "android_client_info": {
+          "package_name": "com.osc.yodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523643834944-5n1ucq4rfh8s2oob2gdnfsc0gehfqnom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARSEIyNKHKM-myg8I8eJ6xKXKojvu7djw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523643834944-5n1ucq4rfh8s2oob2gdnfsc0gehfqnom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
